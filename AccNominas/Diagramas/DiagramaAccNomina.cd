@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AccNominas.FrmLogin">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAEAAACAAABAAAACACAACABAAAkAAgAAQAQBgECA=</HashCode>
+      <FileName>FrmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.FrmPrincipal" Collapsed="true">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kUIRJokSDGSRSJZAoFWsI9pCAASg2BEgnDkAC4AlYAA=</HashCode>
+      <FileName>FrmPrincipal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.FrmSplash">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAAAAACAAAACCgCAgAABAIAAAABBAAA=</HashCode>
+      <FileName>FrmSplash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.Program">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.Formularios.FrmAsignarHorario" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACCAEEIYCAAAb4AAiDKAAEGAoBIQgQBAREIAQAAAYA=</HashCode>
+      <FileName>Formularios\FrmAsignarHorario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.Formularios.FrmConsultarChecadas" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAoCAACgAABEAQACAAAACAAAACAAACAAAAAgAAAA=</HashCode>
+      <FileName>Formularios\FrmConsultarChecadas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.Formularios.FrmConsultarEmpleados" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAECAACBIAFZAAACIAAACAAAYQAAgaHAAAQAAAAA=</HashCode>
+      <FileName>Formularios\FrmConsultarEmpleados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.Formularios.FrmConsultarTodo" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QggAAgCAACSAABwwQgGAAABCAAASgAAACCBAAAgAAAA=</HashCode>
+      <FileName>Formularios\FrmConsultarTodo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.Formularios.FrmDepartamentos" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAABQAAACAAAACACAYAAAAAGAIAQAAAAA=</HashCode>
+      <FileName>Formularios\FrmDepartamentos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.Formularios.FrmDesasignarHorario" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEEAACAAALQAAACAAAAGAMBACAQAAAAIAEAAAQA=</HashCode>
+      <FileName>Formularios\FrmDesasignarHorario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.Formularios.FrmEmpleados" Collapsed="true">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABABAQAAiAgAACACAYAAABAGAIAAIAAAA=</HashCode>
+      <FileName>Formularios\FrmEmpleados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.Formularios.FrmHorarios" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQECIA0hJCAACZ0FiAWqABEKApBIShCAYDCRAwYCAIA=</HashCode>
+      <FileName>Formularios\FrmHorarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.Formularios.FrmJustificar" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEIUBACAAALkgJAiAAAACAALAAAAQAAAAAAoCBAA=</HashCode>
+      <FileName>Formularios\FrmJustificar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.Formularios.FrmRecalcular" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAEAQgCAAAJAAACCAAAACAABAgBIBAABAQAIAAAA=</HashCode>
+      <FileName>Formularios\FrmRecalcular.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.Formularios.FrmReporteAsistencia" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="AccNominas.Formularios.FrmReporteAsistencia.MinMax" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Formularios\FrmReporteAsistencia.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gogAmoCABCjABBQggkCAIABiIACQAAAAAABBAAgAQCk=</HashCode>
+      <FileName>Formularios\FrmReporteAsistencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.Formularios.FrmReporteAsistenciaDepartamento" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="AccNominas.Formularios.FrmReporteAsistenciaDepartamento.MinMax" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Formularios\FrmReporteAsistenciaDepartamento.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAgAAAAQICgQAJAAAACAAAGCIABQAAABACBAAAAAAQA=</HashCode>
+      <FileName>Formularios\FrmReporteAsistenciaDepartamento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.Formularios.FrmUsuarios" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9gCAABJQACQEWNAACAiCSBECRSBCIQBAIAIUBQAhBCA=</HashCode>
+      <FileName>Formularios\FrmUsuarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.Properties.Resources">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgAAAAAACUAAIAAAAABkQIAAUQAAAQQQQAAAAAGAaQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccNominas.Properties.Settings">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAQAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="12.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,109 @@
+C:\respaldo lap\documentos\Desarrollo\Los Corrales\ACCNominas\AccAsistencia\bin\Debug\AccAsistencia.dll
+C:\respaldo lap\documentos\Desarrollo\Los Corrales\ACCNominas\AccAsistencia\bin\Debug\AccAsistencia.pdb
+C:\respaldo lap\documentos\Desarrollo\Los Corrales\ACCNominas\AccAsistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\respaldo lap\documentos\Desarrollo\Los Corrales\ACCNominas\AccAsistencia\obj\Debug\AccAsistencia.dll
+C:\respaldo lap\documentos\Desarrollo\Los Corrales\ACCNominas\AccAsistencia\obj\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\AccAsistencia\bin\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\AccAsistencia\bin\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\AccAsistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\AccAsistencia\obj\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\AccAsistencia\obj\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\AccNominas\AccAsistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\Residencia\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\Residencia\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\Residencia\AccNominas\AccAsistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\Residencia\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\Residencia\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Programación\checador\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Programación\checador\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Programación\checador\AccNominas\AccAsistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fausto\Documents\Programación\checador\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Programación\checador\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.pdb
+C:\Desarrollo\Asistencia\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.pdb
+C:\Desarrollo\Asistencia\AccNominas\AccAsistencia\bin\Debug\AccSettings.dll
+C:\Desarrollo\Asistencia\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.dll
+C:\Desarrollo\Asistencia\AccNominas\AccAsistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Asistencia\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.dll
+C:\Desarrollo\Asistencia\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.pdb
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccAsistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.pdb
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccAsistencia\bin\Debug\AccSettings.dll
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccAsistencia\bin\Debug\AccSettings.pdb
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.pdb
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.dll
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.pdb
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.dll
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.dll
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\AccSettings.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.dll
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.dll
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\AccSettings.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\AccSettings.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.dll
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\AccSettings.pdb
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.dll
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.pdb
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.dll
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.dll
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.pdb
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.dll
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.pdb
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.dll
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\bin\Debug\AccSettings.pdb
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.pdb
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.dll
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.pdb
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.dll
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.pdb
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.dll
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\bin\Debug\AccSettings.pdb
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.pdb
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.dll
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.pdb
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.dll
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.pdb
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.dll
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.dll
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.pdb
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.csprojResolveAssemblyReference.cache
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.dll
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.pdb
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.dll
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.csprojResolveAssemblyReference.cache
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.dll
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.pdb
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.dll
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccAsistencia\bin\Debug\AccAsistencia.pdb
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.dll
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.dll
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.pdb
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccAsistencia\obj\Debug\AccAsistencia.csprojResolveAssemblyReference.cache

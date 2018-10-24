@@ -1,0 +1,409 @@
+c:\users\fausto\documents\visual studio 2010\Projects\AccNominas\AccNominas\bin\Debug\AccNominas.exe
+c:\users\fausto\documents\visual studio 2010\Projects\AccNominas\AccNominas\bin\Debug\AccNominas.pdb
+c:\users\fausto\documents\visual studio 2010\Projects\AccNominas\AccNominas\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\fausto\documents\visual studio 2010\Projects\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Properties.Resources.resources
+c:\users\fausto\documents\visual studio 2010\Projects\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\fausto\documents\visual studio 2010\Projects\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\fausto\documents\visual studio 2010\Projects\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe
+c:\users\fausto\documents\visual studio 2010\Projects\AccNominas\AccNominas\obj\x86\Debug\AccNominas.pdb
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\Residencia\AccNominas\AccNominas\bin\Debug\AccNominas.exe
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\Residencia\AccNominas\AccNominas\bin\Debug\AccNominas.pdb
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\Residencia\AccNominas\AccNominas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\Residencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Properties.Resources.resources
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\Residencia\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\Residencia\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\Residencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe
+C:\Users\Fausto\Documents\Visual Studio 2010\Projects\Residencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.pdb
+C:\Users\Fausto\Documents\Programación\checador\AccNominas\AccNominas\bin\Debug\AccNominas.exe
+C:\Users\Fausto\Documents\Programación\checador\AccNominas\AccNominas\bin\Debug\AccNominas.pdb
+C:\Users\Fausto\Documents\Programación\checador\AccNominas\AccNominas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fausto\Documents\Programación\checador\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Properties.Resources.resources
+C:\Users\Fausto\Documents\Programación\checador\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fausto\Documents\Programación\checador\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fausto\Documents\Programación\checador\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe
+C:\Users\Fausto\Documents\Programación\checador\AccNominas\AccNominas\obj\x86\Debug\AccNominas.pdb
+C:\Desarrollo\Asistencia\AccNominas\AccNominas\bin\Debug\AccNominas.exe.config
+C:\Desarrollo\Asistencia\AccNominas\AccNominas\bin\Debug\AccNominas.exe
+C:\Desarrollo\Asistencia\AccNominas\AccNominas\bin\Debug\AccNominas.pdb
+C:\Desarrollo\Asistencia\AccNominas\AccNominas\bin\Debug\AccAsistencia.dll
+C:\Desarrollo\Asistencia\AccNominas\AccNominas\bin\Debug\AccAsistencia.pdb
+C:\Desarrollo\Asistencia\AccNominas\AccNominas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Asistencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Form1.resources
+C:\Desarrollo\Asistencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmPrincipal.resources
+C:\Desarrollo\Asistencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Properties.Resources.resources
+C:\Desarrollo\Asistencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Splash.resources
+C:\Desarrollo\Asistencia\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Desarrollo\Asistencia\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Desarrollo\Asistencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe.licenses
+C:\Desarrollo\Asistencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe
+C:\Desarrollo\Asistencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.pdb
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\bin\Debug\AccNominas.exe.config
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\bin\Debug\AccNominas.exe
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\bin\Debug\AccNominas.pdb
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\bin\Debug\AccAsistencia.dll
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\bin\Debug\AccSettings.dll
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\bin\Debug\Sofbr.Utils.dll
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\bin\Debug\AccSettings.pdb
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\bin\Debug\Sofbr.Utils.pdb
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmPrincipal.resources
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Properties.Resources.resources
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Splash.resources
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe.licenses
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.pdb
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\bin\Debug\AccAsistencia.pdb
+C:\Desarrollos\Desarrollos .Net\Asistencia\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmReporteAsistencia.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccNominas.exe.config
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmConsultarChecadas.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmJustificar.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmPrincipal.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmReporteAsistencia.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Splash.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Properties.Resources.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe.licenses
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccNominas.exe
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccNominas.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccSettings.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\Sofbr.Utils.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmEmpleados.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Nueva carpeta\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmHorarios.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccNominas.exe.config
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccNominas.exe
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccNominas.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmConsultarChecadas.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmEmpleados.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmHorarios.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmJustificar.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmPrincipal.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmReporteAsistencia.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Properties.Resources.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe.licenses
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccNominas.exe.config
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccNominas.exe
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccNominas.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccSettings.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\Sofbr.Utils.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmConsultarChecadas.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmEmpleados.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmHorarios.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmJustificar.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmPrincipal.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmReporteAsistencia.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Properties.Resources.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Splash.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe.licenses
+C:\Users\Fausto\Documents\Programación\Residencia\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmDepartamentos.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmDepartamentos.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmAsignarHorario.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmConsultarEmpleados.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmRecalcular.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmDesasignarHorario.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmConsultarTodo.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmReporteAsistenciaDepartamento.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmUsuarios.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmLogin.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmSplash.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmAsistenciaTodosChecadores.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmConsultarChecadasTodosChecadores.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.FrmFeriado.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccSettings.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Proy\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\Sofbr.Utils.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccNominas.exe.config
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccNominas.exe
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccNominas.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccAsistencia.dll
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccAsistencia.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmDesactivarHorario.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmAsistenciaTodosChecadores.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarChecadasTodosChecadores.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmFeriado.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmRecalcular.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmDesasignarHorario.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmAsignarHorario.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarChecadas.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmConsultarEmpleados.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarTodo.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Departamentos.FrmDepartamentos.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmEmpleados.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmHorarios.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmJustificar.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteAsistenciaDepartamento.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Usuarios.FrmUsuarios.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmPrincipal.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteAsistencia.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmLogin.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Properties.Resources.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmSplash.resources
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe.licenses
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccSettings.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\Sofbr.Utils.pdb
+C:\Users\Fausto\Documents\Programación\Residencia\Checador - copia\pl2\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmAsignarChecador.resources
+C:\Desarrollos\Desarrollos .Net\Fausto\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccNominas.exe.config
+C:\Desarrollos\Desarrollos .Net\Fausto\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe
+C:\Desarrollos\Desarrollos .Net\Fausto\Checador\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.pdb
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccNominas.exe.config
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\Pict\LOGO.GIF
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccNominas.exe
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccNominas.pdb
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccAsistencia.dll
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\bin\Debug\AccAsistencia.pdb
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmAsignarChecador.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmDesactivarHorario.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmCambiarPrioridad.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmFestivoLaborado.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmAsistenciaTodosChecadores.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarChecadasTodosChecadores.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmFeriado.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmRecalcular.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmDesasignarHorario.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmAsignarHorario.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarChecadas.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmConsultarEmpleados.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarTodo.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Departamentos.FrmDepartamentos.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmEmpleados.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmHorarios.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmJustificar.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteAsistenciaDepartamento.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteJusticifaciones.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Usuarios.FrmChecadores.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Usuarios.FrmUsuarios.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmPrincipal.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteAsistencia.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmLogin.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Properties.Resources.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmSplash.resources
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe.licenses
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe
+C:\Desarrollos\Desarrollos .Net\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccNominas\obj\x86\Debug\AccNominas.pdb
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccNominas.exe.config
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.pdb
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmAsignarChecador.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmDesactivarHorario.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmCambiarPrioridad.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmFestivoLaborado.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmAsistenciaTodosChecadores.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarChecadasTodosChecadores.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmFeriado.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmRecalcular.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmDesasignarHorario.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmAsignarHorario.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarChecadas.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmConsultarEmpleados.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarTodo.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Departamentos.FrmDepartamentos.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmEmpleados.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmHorarios.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmJustificar.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteAsistenciaDepartamento.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteJusticifaciones.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Usuarios.FrmChecadores.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Usuarios.FrmUsuarios.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmPrincipal.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteAsistencia.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmLogin.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Properties.Resources.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmSplash.resources
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe.licenses
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\Pict\LOGO.GIF
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccNominas.exe
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccNominas.pdb
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccAsistencia.dll
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccAsistencia.pdb
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccSettings.pdb
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\Sofbr.Utils.pdb
+D:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmChecadasPersonalizadas.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccNominas.exe.config
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.pdb
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\Pict\LOGO.GIF
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccNominas.exe
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccNominas.pdb
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccAsistencia.dll
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccAsistencia.pdb
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccSettings.pdb
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\Sofbr.Utils.pdb
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmAsignarChecador.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmDesactivarHorario.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmCambiarPrioridad.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmFestivoLaborado.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmAsistenciaTodosChecadores.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmChecadasPersonalizadas.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarChecadasTodosChecadores.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmFeriado.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmRecalcular.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmDesasignarHorario.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmAsignarHorario.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarChecadas.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmConsultarEmpleados.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarTodo.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Departamentos.FrmDepartamentos.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmEmpleados.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmHorarios.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmJustificar.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteAsistenciaDepartamento.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteJusticifaciones.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Usuarios.FrmChecadores.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Usuarios.FrmUsuarios.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmPrincipal.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteAsistencia.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmLogin.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Properties.Resources.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmSplash.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe.licenses
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccNominas.exe.config
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.pdb
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\Pict\LOGO.GIF
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccNominas.exe
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccNominas.pdb
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccAsistencia.dll
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccAsistencia.pdb
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmAsignarChecador.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmDesactivarHorario.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmCambiarPrioridad.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmFestivoLaborado.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmAsistenciaTodosChecadores.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmChecadasPersonalizadas.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarChecadasTodosChecadores.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmFeriado.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmRecalcular.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmDesasignarHorario.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmAsignarHorario.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarChecadas.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmConsultarEmpleados.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarTodo.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Departamentos.FrmDepartamentos.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmEmpleados.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmHorarios.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmJustificar.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteAsistenciaDepartamento.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteJusticifaciones.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Usuarios.FrmChecadores.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Usuarios.FrmUsuarios.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmPrincipal.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteAsistencia.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmLogin.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Properties.Resources.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmSplash.resources
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.csproj.GenerateResource.Cache
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe.licenses
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccNominas.exe.config
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.pdb
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\Pict\LOGO.GIF
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccNominas.exe
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccNominas.pdb
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccAsistencia.dll
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\bin\Debug\AccAsistencia.pdb
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.csprojResolveAssemblyReference.cache
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmAsignarChecador.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmDesactivarHorario.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmCambiarPrioridad.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmFestivoLaborado.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmAsistenciaTodosChecadores.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmChecadasPersonalizadas.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarChecadasTodosChecadores.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmFeriado.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmRecalcular.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmDesasignarHorario.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmAsignarHorario.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarChecadas.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmConsultarEmpleados.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarTodo.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Departamentos.FrmDepartamentos.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmEmpleados.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmHorarios.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmJustificar.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteAsistenciaDepartamento.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteJusticifaciones.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Usuarios.FrmChecadores.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Usuarios.FrmUsuarios.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmPrincipal.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteAsistencia.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmLogin.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Properties.Resources.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmSplash.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.csproj.GenerateResource.Cache
+G:\Dropbox\Desarrollos\Codigo Fuente\Control de Asistencias\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe.licenses
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.csprojResolveAssemblyReference.cache
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmAsignarChecador.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmDesactivarHorario.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmCambiarPrioridad.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmFestivoLaborado.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmAsistenciaTodosChecadores.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmChecadasPersonalizadas.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarChecadasTodosChecadores.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmFeriado.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmRecalcular.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmDesasignarHorario.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmAsignarHorario.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarChecadas.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmConsultarEmpleados.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmConsultarTodo.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Departamentos.FrmDepartamentos.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Empleados.FrmEmpleados.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmHorarios.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Horarios.FrmJustificar.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteAsistenciaDepartamento.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteJusticifaciones.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Usuarios.FrmChecadores.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Usuarios.FrmUsuarios.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.frmMsj.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmPrincipal.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmReporteAsistencia.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmLogin.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Properties.Resources.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.FrmSplash.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.csproj.GenerateResource.Cache
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe.licenses
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\bin\Debug\AccNominas.exe.config
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\bin\Debug\Pict\LOGO.GIF
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\bin\Debug\AccNominas.exe
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\bin\Debug\AccNominas.pdb
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\bin\Debug\AccAsistencia.dll
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\bin\Debug\AccAsistencia.pdb
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.exe
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.pdb
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.FrmAsistenciasR.resources
+F:\DESARROLLOSergioSoto\Lista Carpetas Documentos\Desarrollo_codigos\AccNominas\AccNominas\obj\x86\Debug\AccNominas.Formularios.Reportes.frmHistorialC.resources
